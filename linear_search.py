@@ -1,4 +1,4 @@
-#linear search
+#linear search O(n)
 def linear_search(list, item):
 	
 	for i in range(len(list)+1):
