@@ -1,4 +1,4 @@
-#binary search
+#binary search O(log n)
 def binary_search(list, item):
 
 	low = 0
